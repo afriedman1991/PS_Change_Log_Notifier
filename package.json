@@ -1,0 +1,9 @@
+{
+  "name": "PS_Change_Log_Notifier",
+  "version": "1.0.0",
+  "description": "A change log notifier for PaperSpace",
+  "main": "index.js",
+  "repository": "https://github.com/afriedman1991/PS_Change_Log_Notifier.git",
+  "author": "Alex Friedman",
+  "license": "MIT"
+}
